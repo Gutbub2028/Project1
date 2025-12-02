@@ -1,0 +1,18 @@
+.all{
+    display: flex;
+    background:#FAEAB1 ;
+    border-bottom: 8px solid #34656D;
+    border-radius: 60px solid #FAEAB1;
+    justify-content: space-around;
+    padding:20px;
+    margin:0 auto;
+    width: 450px;
+}
+.image{
+    width: 150px;
+}
+.text{
+    text-align: center;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
